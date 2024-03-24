@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "sample-apps": "^2.0.4"
+  },
+  "devDependencies": {
+    "webdriverio": "^8.35.1"
+  }
+}
